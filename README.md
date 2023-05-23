@@ -129,9 +129,10 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w
     
     ## LINERALY SEPERABLE & TRANSFORMATION OUTPUT:
     
-    ![SS-1](https://github.com/MIRUDHULA-DHANARAJ/Experiment-5-Implementation-of-XOR-using-RBF/assets/94828147/6bef94fa-10c8-44b1-a28f-84c42f9b13f1)
+    ![SS-1](https://github.com/MIRUDHULA-DHANARAJ/Experiment-5-Implementation-of-XOR-using-RBF/assets/94828147/7d5a4083-740e-462c-9005-d1b16a069bbd)
     
-    ![SS-2](https://github.com/MIRUDHULA-DHANARAJ/Experiment-5-Implementation-of-XOR-using-RBF/assets/94828147/a896d7a3-b98a-4c5d-91fd-5584da5ff5c5)
+    
+
     
     ## PREDICTION:
     
