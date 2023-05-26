@@ -48,7 +48,7 @@ Developed By: Mirudhula D
 Register No.: 212221230060
 
 ```
-
+```
 import numpy as np
 import matplotlib.pyplot as plt
 def gaussian_rbf(x, landmark, gamma=1):
