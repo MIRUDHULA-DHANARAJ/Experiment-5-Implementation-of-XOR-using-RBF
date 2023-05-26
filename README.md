@@ -126,25 +126,24 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w
 ```
 
 ## OUTPUT :
-    
-    # LINERALY SEPERABLE:
-    
-    ![image](https://github.com/MIRUDHULA-DHANARAJ/Experiment-5-Implementation-of-XOR-using-RBF/assets/94828147/09e99183-e2cd-4912-8240-02e3c1c59fc2)
-    
-    ![image](https://github.com/MIRUDHULA-DHANARAJ/Experiment-5-Implementation-of-XOR-using-RBF/assets/94828147/8b3a0eb0-9ea4-4142-b4cc-7cddd1607be3)
 
-
-    
-    ## TRANSFORMATION OUTPUT:
-    
-    ![image](https://github.com/MIRUDHULA-DHANARAJ/Experiment-5-Implementation-of-XOR-using-RBF/assets/94828147/c1e20886-d70a-4eeb-81eb-cdd9e1b2311d)
-
-   ![image](https://github.com/MIRUDHULA-DHANARAJ/Experiment-5-Implementation-of-XOR-using-RBF/assets/94828147/aaa4dfc0-29f8-4f29-8293-6f5ead38521c)
+ ## LINEAR SEPARABLE DATA:
  
+![image](https://github.com/MIRUDHULA-DHANARAJ/Experiment-5-Implementation-of-XOR-using-RBF/assets/94828147/6196d32e-545e-4d77-a25f-cf53bc735856)
+
+![image](https://github.com/MIRUDHULA-DHANARAJ/Experiment-5-Implementation-of-XOR-using-RBF/assets/94828147/07c5837e-0d7f-4e26-a72e-dbce800cfe00)
+
+    
+ ## TRANSFORMED INPUTS:
+  
+ ![image](https://github.com/MIRUDHULA-DHANARAJ/Experiment-5-Implementation-of-XOR-using-RBF/assets/94828147/16d5bec4-c027-4d5b-9ec6-1c5bf64b908c)
+
+![image](https://github.com/MIRUDHULA-DHANARAJ/Experiment-5-Implementation-of-XOR-using-RBF/assets/94828147/867b4949-5004-4e16-a77e-6fa6710be079)
+
     
 
     
-    # PREDICTION:
+ # PREDICTION:
     
    
 
